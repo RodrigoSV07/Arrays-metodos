@@ -1,4 +1,4 @@
-# Arrays-metod
+# Arrays-metodo
 
 1. Faça um algoritmo para ler 20 números e armazenar em um array. Após a leitura total dos 20 números, o algoritmo deve escrever esse array.
 
